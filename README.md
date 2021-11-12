@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I'm also a content creator in Twitch and Youtube!**
 
-- 💬 Ask me about anything **DM me on my Instagram!!**
+- 💬 Ask me about anything **Text me on my Instagram DM!!**
 
 <p align="center">
 <a href="https://twitter.com/captainistz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="captainistz" height="30" width="30" /></a>&nbsp
