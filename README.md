@@ -1,4 +1,20 @@
-### Hi there 👋
+<link rel="stylesheet" href="devicon.min.css">
+
+<h1 align="center">Hi 👋, I'm SeanNachapat!!</h1>
+<h3 align="center">I'm a high school student!!</h3>
+
+- 🌱 I’m currently learning **Python, and C**
+
+- 📫 How to reach me **SeanNachapat@gmail.com**
+
+- ⚡ Fun fact **I'm also a content creator in Twitch and Youtube!**
+
+- 💬 Ask me about anything **DM me on my Instagram!!**
+
+<p align="center">
+<a href="https://twitter.com/captainistz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="captainistz" height="30" width="30" /></a>&nbsp
+<a href="https://instagram.com/captainistz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="captainistz" height="30" width="30" /></a>
+</p>
 
 <!--
 **SeanNachapat/SeanNachapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
