@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm SeanNachapat!!</h1>
 <h3 align="center">I'm a high school student!!</h3>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Game Development**
 
 - 🌱 I’m currently learning **Python, and C**
 
