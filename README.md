@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="devicon.min.css">
 
-<h1 align="center">Hi 👋, I'm SeanNachapat!!</h1>
+<h1 align="center">Hello 👋, I'm SeanNachapat!!</h1>
 <h3 align="center">I'm a high school student!!</h3>
 
 - 🔭 I’m currently working on **Game Development**
