@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **SeanNachapat@gmail.com**
 
-- ⚡ Fun fact **I'm also a content creator in Twitch and Youtube!**
+- ⚡ Fun fact **I'm also a content creator on Twitch and Youtube!**
 
 - 💬 Ask me about anything **Text me on my Instagram DM!!**
 
