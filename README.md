@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Game Development**
 
-- 🌱 I’m currently learning **Python, and C**
+- 🌱 I’m currently learning **CS50x**
 
 - 📫 How to reach me **SeanNachapat@gmail.com**
 
