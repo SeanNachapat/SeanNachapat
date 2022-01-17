@@ -30,8 +30,6 @@
 
 <br />
 
----
-
 ### Github Stats:
 
   <img align="left" alt="SeanNachapat's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SeanNachapat&show_icons=true&hide_border=true" />
