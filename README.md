@@ -30,6 +30,8 @@
 
 <br />
 
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -56,3 +58,6 @@ Here are some ideas to get you started:
 </details>
 
 [blank]: ---
+[youtube]:https://www.youtube.com/channel/UCOlBPKuRzlbj1JGxiBLUIkg
+[twitter]:https://twitter.com/Seanst_
+[instagram]:https://www.instagram.com/seanst._/
