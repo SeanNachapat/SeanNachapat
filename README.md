@@ -1,22 +1,42 @@
 <link rel="stylesheet" href="devicon.min.css">
 
 <h1 align="center">Hello 👋, I'm SeanNachapat!!</h1>
-<h3 align="center">I'm a high school student!!</h3>
+<h3 align="center">I'm a self-learning programmer!!</h3>
 
-- 🔭 I’m currently working on **Game Development**
+- 🔭 I’m currently working on **Discord.js - MaguroBot**
 
-- 🌱 I’m currently learning **CS50x**
+- 🌱 I’m currently learning **Python and JavaScript**
 
 - 📫 How to reach me **SeanNachapat@gmail.com**
 
-- ⚡ Fun fact **I'm also a content creator on Twitch and Youtube!**
+- ⚡ Fun fact **I like graphic designing and playing games!**
 
-- 💬 Ask me about anything **Text me on my Instagram DM!!**
+### Connect with me:
 
-<p align="center">
-<a href="https://twitter.com/Seanst_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SeanNachapat" height="30" width="30" /></a>&nbsp
-<a href="https://www.instagram.com/seanst._/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="SeanNachapat" height="30" width="30" /></a>
-</p>
+[<img align="left" alt="Seanst._ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Seanst_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Seanst._ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!--[<img align="left" alt="SeanNachapat.me" width="22px" src="https://..." />][website]-->
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][blank]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][blank]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blank]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][blank]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][blank]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][blank]
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="SeanNachapat's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SeanNachapat&show_icons=true&hide_border=true" />
+
+</details>
+
 
 <!--
 **SeanNachapat/SeanNachapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,3 +52,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</details>
+
+[blank]: ---
