@@ -32,7 +32,7 @@
 
 ### Github Stats:
 
-  <img align="left" alt="SeanNachapat's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SeanNachapat&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
