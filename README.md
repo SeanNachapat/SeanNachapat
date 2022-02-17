@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋, I'm SeanNachapat!!</h1>
 <h3 align="center">I'm a self-learning programmer!!</h3>
 
-- 🔭 I’m currently working on **Discord.js - MaguroBot**
+- 🔭 I’m currently working on <a href="https://github.com/SeanNachapat/maguro">**Discord.js - MaguroBot**</a>
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
