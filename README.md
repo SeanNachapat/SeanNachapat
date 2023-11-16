@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="devicon.min.css">
 
 <h1 align="center">Hello 👋, I'm SeanNachapat!!</h1>
-<h3 align="center">I'm a self-learning programmer!!</h3>
+<h3 align="center">I'm a Thai highschool student!!</h3>
 
 <!-- - 🔭 I’m currently working on <a href="https://github.com/SeanNachapat/maguro">**Discord.js - MaguroBot**</a>  -->
 
@@ -10,6 +10,8 @@
 - 📫 How to reach me **SeanNachapat@gmail.com**
 
 - ⚡ Fun fact **I like graphic designing and playing games!**
+
+- 🎓 I'm studying for **Bachelor of Science Program in Information and Communication Technology (International Program)!**
 
 ### Connect with me:
 
