@@ -1,17 +1,16 @@
 <link rel="stylesheet" href="devicon.min.css">
 
 <h1 align="left">Hey, I'm SeanNachapat!!👋</h1>
-<h3 align="left">I'm a Thai highschool student!!</h3>
+<h3 align="left">I'm a Thai senior year highschool student!!</h3>
 
 <!-- - 🔭 I’m currently working on <a href="https://github.com/SeanNachapat/maguro">**Discord.js - MaguroBot**</a>  -->
 
-- 🌱 I’m currently learning **Python and JavaScript**
+- 🌱 I’m currently learning **EVERYTHING**
 
 - 📫 How to reach me **SeanNachapat@gmail.com**
 
-- ⚡ Fun fact **I like graphic designing and playing games!**
 
-- 🎓 I'm studying for **Bachelor of Science Program in Information and Communication Technology (International Program)!**
+- 🎓 I'm looking forward to studying in **Computer Science!**
 
 ### Connect with me:
 
