@@ -4,7 +4,7 @@
 
 **`Seanst._ (Developer/Filmmaker)`**
 
-👨🏻‍🎓 Senior year high school student interested in Computer Science & IoT<br/>
+👨🏻‍🎓 Studying Computer Science, KMITL<br/>
 ☕ Making cinematic video about techs and films on [Youtube](https://www.youtube.com/@Seanst)<br/>
 💭 Currently learning **EVERYTHING**<br/>
 
