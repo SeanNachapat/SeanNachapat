@@ -16,13 +16,4 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-
-<br/>
-
-<h1 align="left">📊Github Stats</h1>
-
-![](https://github-readme-stats.vercel.app/api?username=seannachapat&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=seannachapat&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seannachapat&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 <br/>
