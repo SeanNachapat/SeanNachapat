@@ -9,7 +9,19 @@
 💭 Currently learning **EVERYTHING**<br/>
 
 #
+ 
+### 🎬 My Videos
 
+<div>
+  <a href="https://www.youtube.com/shorts/jsiYpLMkaVE">
+    <img alt="Notion" src="https://i.ytimg.com/vi/jsiYpLMkaVE/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLBYkFA1-cP8V-vD-6nxTpLPufCcgg"   height="400">
+  </a>
+  <a href="https://www.youtube.com/shorts/MpSwkCrj5yg">
+  <img alt="Best AI Study tools" src="https://i.ytimg.com/vi/MpSwkCrj5yg/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDITlotGLNEx7aUF2vPFoT42oNvmQ" height="400">
+</a>
+</div>
+
+#
 ### 🔧 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
