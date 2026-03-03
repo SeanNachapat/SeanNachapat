@@ -9,11 +9,8 @@
 
 ## 📊 Stats
 
-[![SeanNachapat's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SeanNachapat\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/SeanNachapat/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanNachapat&layout=compact\&theme=dark#gh-dark-mode-only)](https://github.com/SeanNachapat/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-
-[![SeanNachapat's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SeanNachapat\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/SeanNachapat/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanNachapat&layout=compact\&theme=default#gh-light-mode-only)](https://github.com/SeanNachapat/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+[![SeanNachapat's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SeanNachapat\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/SeanNachapat/github-readme-stats#responsive-card-theme#gh-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanNachapat&layout=compact\&theme=dark#gh-dark-mode-only)](https://github.com/SeanNachapat/github-readme-stats#responsive-card-theme#gh-dark)
 
 ## 🔧 Languages and Tools
 
