@@ -5,7 +5,8 @@
 
 👨🏻‍🎓 Studying Computer Science at KMITL<br/>
 ☕ Making cinematic video about techs and films on [Youtube](https://www.youtube.com/@Seanst)<br/>
-💭 Currently learning **AI & Machine Learning**<br/>
+💭 Currently learning **AI & Robotics**<br/>
+📂 Developed [🌱STACKED](https://stacked.seanstlab.com)
 
 ## 📊 Stats
 
