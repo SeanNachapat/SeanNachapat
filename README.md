@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="devicon.min.css">
 
-### 👋Hey, I'm Sean!!
+### 👋Hey, Sean here!!
 **`Seanst._ (Developer/Filmmaker)`**
 
 👨🏻‍🎓 Studying Computer Science at KMITL<br/>
