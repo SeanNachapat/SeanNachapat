@@ -4,7 +4,7 @@
 **`Seanst._ (Developer/Filmmaker)`**
 
 👨🏻‍🎓 Studying Computer Science at KMITL<br/>
-☕ Making cinematic video about techs and films on [Youtube](https://www.youtube.com/@Seanst)<br/>
+☕ Making video about techs and films on [Youtube](https://www.youtube.com/@Seanst)<br/>
 💭 Currently learning **AI, Machine Learning & Robotics**<br/>
 📂 Developed [🌱STACKED](https://stacked.seanstlab.com)
 
